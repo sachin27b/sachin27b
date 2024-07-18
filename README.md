@@ -70,7 +70,7 @@
   
   <div style="width: 30%; background: rgba(200,80,192,0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <h3 style="color: #C850C0;">📚 Student Performance Predictor</h3>
-    <p>ML pipeline with exceptional accuracy</p>
+    <p>Conducted comprehensive Exploratory Data Analysis (EDA) to understand data distribution, identify outliers, and studied relationships between features. Developed an end-to-end machine learning project for predicting student performance with data pipeline, exception handling and logging. Trained multiple models including linear regression, random forest, Decision Trees and XGBoost. Achieved an R-squared score of 87% on the held-out testing set. Built a web application for the project using Flask.</p>
     <img src="media/student-performance.jpg" alt="Student Performance Predictor" style="width: 100%; border-radius: 5px;">
     <p>
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
@@ -81,7 +81,7 @@
   
   <div style="width: 30%; background: rgba(255,204,112,0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <h3 style="color: #FFCC70;">🏠 Airbnb Booking Predictor</h3>
-    <p>Kaggle competition with high public score</p>
+    <p>Predicting where a new user will book their first travel experience. Using this, Airbnb can share more personalized content with their community, decrease the average time to first booking, and better forecast demand. Conducted comprehensive Exploratory Data Analysis (EDA) to understand data distribution, identify outliers, and studied relationships between features. Trained multiple models including random forest, Decision Trees and XGBoost. Achieved a public score of 0.86 on KAGGLE.</p>
     <img src="media/airbnb.png" alt="Airbnb Booking Predictor" style="width: 100%; border-radius: 5px;">
     <p>
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
