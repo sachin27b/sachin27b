@@ -1,24 +1,26 @@
 <div align="center">
-  <!-- Animated SVG Header -->
-  <svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Animated SVG Header with particles effect -->
+  <svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#00FFFF;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#0077B5;stop-opacity:1" />
+        <stop offset="0%" style="stop-color:#4158D0;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#C850C0;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#FFCC70;stop-opacity:1" />
       </linearGradient>
     </defs>
-    <rect width="100%" height="200" fill="url(#gradient)" />
+    <rect width="100%" height="300" fill="url(#gradient)" />
     <text x="50%" y="50%" fill="white" font-family="Arial, sans-serif" font-size="48" text-anchor="middle" dominant-baseline="middle">
       Sachin Bahuleyan
     </text>
+    <!-- Add particles effect here -->
   </svg>
   
-  <h2 style="color: #00FFFF;">Data Scientist | ML Engineer</h2>
+  <h2 style="color: #C850C0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Data Scientist | ML Engineer</h2>
 </div>
 
 <p align="center">
   <a href="https://github.com/sachin27b">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=535&lines=Turning+Data+into+Actionable+Insights;Architecting+Intelligent+Systems;Pushing+the+Boundaries+of+AI;Solving+Complex+Problems+with+ML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C850C0&center=true&vCenter=true&width=535&lines=Turning+Data+into+Actionable+Insights;Architecting+Intelligent+Systems;Pushing+the+Boundaries+of+AI;Solving+Complex+Problems+with+ML" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,7 +35,7 @@
   Tech Arsenal
 </h2>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 20px 0;">
+<div align="center" style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px; margin: 20px 0;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -66,8 +68,8 @@
 </h2>
 
 <div style="display: flex; justify-content: space-around; margin: 20px 0;">
-  <div style="width: 30%; border: 1px solid #00FFFF; border-radius: 10px; padding: 10px; transition: all 0.3s;">
-    <h3>🤖 RAG Chatbot</h3>
+  <div style="width: 30%; background: rgba(65,88,208,0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="color: #4158D0;">🤖 RAG Chatbot</h3>
     <p>End-to-end chatbot using advanced NLP techniques</p>
     <img src="https://via.placeholder.com/300x150.png?text=RAG+Chatbot" alt="RAG Chatbot" style="width: 100%; border-radius: 5px;">
     <p>
@@ -77,8 +79,8 @@
     </p>
   </div>
   
-  <div style="width: 30%; border: 1px solid #00FFFF; border-radius: 10px; padding: 10px; transition: all 0.3s;">
-    <h3>📚 Student Performance Predictor</h3>
+  <div style="width: 30%; background: rgba(200,80,192,0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="color: #C850C0;">📚 Student Performance Predictor</h3>
     <p>ML pipeline with exceptional accuracy</p>
     <img src="https://via.placeholder.com/300x150.png?text=Student+Performance" alt="Student Performance Predictor" style="width: 100%; border-radius: 5px;">
     <p>
@@ -88,8 +90,8 @@
     </p>
   </div>
   
-  <div style="width: 30%; border: 1px solid #00FFFF; border-radius: 10px; padding: 10px; transition: all 0.3s;">
-    <h3>🏠 Airbnb Booking Predictor</h3>
+  <div style="width: 30%; background: rgba(255,204,112,0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="color: #FFCC70;">🏠 Airbnb Booking Predictor</h3>
     <p>Kaggle competition with high public score</p>
     <img src="https://via.placeholder.com/300x150.png?text=Airbnb+Predictor" alt="Airbnb Booking Predictor" style="width: 100%; border-radius: 5px;">
     <p>
@@ -105,21 +107,22 @@
   Latest Blog Posts
 </h2>
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px; margin: 20px 0;">
   <a href="https://medium.com/@sachin270895/customer-support-chatbot-by-fine-tuning-flan-t5-using-lora-937bb3fae01e">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachin270895/0" alt="Recent Article on Medium" width="100%">
   </a>
 </div>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sachin27b.sachin27b" alt="visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sachin27b.sachin27b" alt="visitors" style="margin-right: 20px;">
   <a href="https://www.buymeacoffee.com/sachinbahuleyan" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<div align="center" style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px; margin: 20px 0;">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
 
 <div align="center" style="margin-top: 50px;">
