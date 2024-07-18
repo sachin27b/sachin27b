@@ -18,6 +18,16 @@
   Aspiring Data Scientist with a Master's from IIT Mandi, passionate about leveraging AI to solve real-world challenges. Experienced in Machine Learning, Deep Learning, and NLP, I'm on a mission to transform data into actionable insights.
 </p>
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  Latest Blog Posts
+</h2>
+
+<div align="center" style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px; margin: 20px 0;">
+  <a href="https://medium.com/@sachin270895/customer-support-chatbot-by-fine-tuning-flan-t5-using-lora-937bb3fae01e">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachin270895/0" alt="Recent Article on Medium" width="100%">
+  </a>
+</div>
 ### 🛠️ Technologies & Tools
 
 <p align="left">
@@ -26,15 +36,14 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch">
   <img src="https://img.shields.io/badge/LangChain-FCD34D?style=for-the-badge&logo=langchain">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux">
-  <img src="https://img.shields.io/badge/Large_Language_Models-FFFFFF?style=for-the-badge&logo=openai">
+
   <img src="https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge&logo=R">
   <img src="https://img.shields.io/badge/Machine_Learning-5C2D91?style=for-the-badge&logo=scikit-learn">
   <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow">
   <img src="https://img.shields.io/badge/Data_Science-2C9CDB?style=for-the-badge&logo=databricks">
   <img src="https://img.shields.io/badge/NLP-3E5C76?style=for-the-badge&logo=nlp">
   <img src="https://img.shields.io/badge/Time_Series_Forecasting-FFCC00?style=for-the-badge&logo=timeseries">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript">
+
   <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/Git/GitHub-181717?style=for-the-badge&logo=github">
   <img src="https://img.shields.io/badge/Problem_Solving-4A90E2?style=for-the-badge&logo=problemsolving">
@@ -50,7 +59,7 @@
   <div style="width: 30%; background: rgba(65,88,208,0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <h3 style="color: #4158D0;">🤖 RAG Chatbot</h3>
     <p>End-to-end chatbot using advanced NLP techniques</p>
-    <img src="https://via.placeholder.com/300x150.png?text=RAG+Chatbot" alt="RAG Chatbot" style="width: 100%; border-radius: 5px;">
+    <img src="media/rag.png" alt="RAG Chatbot" style="width: 100%; border-radius: 5px;">
     <p>
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
       <img src="https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=chainlink"/>
@@ -61,7 +70,7 @@
   <div style="width: 30%; background: rgba(200,80,192,0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <h3 style="color: #C850C0;">📚 Student Performance Predictor</h3>
     <p>ML pipeline with exceptional accuracy</p>
-    <img src="https://via.placeholder.com/300x150.png?text=Student+Performance" alt="Student Performance Predictor" style="width: 100%; border-radius: 5px;">
+    <img src="media/student-performance.jpg" alt="Student Performance Predictor" style="width: 100%; border-radius: 5px;">
     <p>
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
       <img src="https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn"/>
@@ -72,7 +81,7 @@
   <div style="width: 30%; background: rgba(255,204,112,0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <h3 style="color: #FFCC70;">🏠 Airbnb Booking Predictor</h3>
     <p>Kaggle competition with high public score</p>
-    <img src="https://via.placeholder.com/300x150.png?text=Airbnb+Predictor" alt="Airbnb Booking Predictor" style="width: 100%; border-radius: 5px;">
+    <img src="media/airbnb.png" alt="Airbnb Booking Predictor" style="width: 100%; border-radius: 5px;">
     <p>
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
       <img src="https://img.shields.io/badge/-XGBoost-05122A?style=flat&logo=xgboost"/>
@@ -81,16 +90,7 @@
   </div>
 </div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  Latest Blog Posts
-</h2>
 
-<div align="center" style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px; margin: 20px 0;">
-  <a href="https://medium.com/@sachin270895/customer-support-chatbot-by-fine-tuning-flan-t5-using-lora-937bb3fae01e">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachin270895/0" alt="Recent Article on Medium" width="100%">
-  </a>
-</div>
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sachin27b.sachin27b" alt="visitors" style="margin-right: 20px;">
