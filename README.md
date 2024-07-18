@@ -15,7 +15,7 @@
 <h2 align="center">🧠 About Me</h2>
 
 <p align="center">
-  Aspiring Data Scientist with a Master's from IIT Mandi, passionate about leveraging AI to solve real-world challenges. Experienced in Machine Learning, Deep Learning, and NLP, I'm on a mission to transform data into actionable insights.
+  Aspiring Data Scientist with a Master's from IIT Mandi in Computer Science, passionate about leveraging AI to solve real-world challenges. Experienced in Machine Learning, Deep Learning, and NLP, I'm on a mission to transform data into actionable insights.
 </p>
 
 <h2 align="center">
