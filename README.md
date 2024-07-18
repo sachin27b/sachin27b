@@ -1,27 +1,9 @@
 <div align="center">
-  <!-- Animated SVG Header with particles effect -->
-  <svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#4158D0;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#C850C0;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FFCC70;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="300" fill="url(#gradient)" />
-    <text x="50%" y="50%" fill="white" font-family="Arial, sans-serif" font-size="48" text-anchor="middle" dominant-baseline="middle">
-      Sachin Bahuleyan
-    </text>
-    <!-- Add particles effect here -->
-  </svg>
-  
-  <h2 style="color: #C850C0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Data Scientist | ML Engineer</h2>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sachin%20Bahuleyan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20ML%20Engineer&descAlignY=51&descAlign=62" width="100%">
 </div>
 
 <p align="center">
-  <a href="https://github.com/sachin27b">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C850C0&center=true&vCenter=true&width=535&lines=Turning+Data+into+Actionable+Insights;Architecting+Intelligent+Systems;Pushing+the+Boundaries+of+AI;Solving+Complex+Problems+with+ML" alt="Typing SVG" />
-  </a>
+  <a href="https://github.com/sachin27b"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Turning+Data+into+Insights;Building+Intelligent+Systems;Crafting+AI+Solutions" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -30,36 +12,33 @@
   <a href="mailto:sachin270895@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  Tech Arsenal
-</h2>
-
-<div align="center" style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-00FFFF?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-4EAA25?style=for-the-badge&logo=natural-language-processing&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  GitHub Analytics
-</h2>
+<h2 align="center">🧠 About Me</h2>
 
 <p align="center">
-  <a href="https://github.com/sachin27b">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sachin27b&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sachin27b&layout=compact&langs_count=8&theme=radical"/>
-  </a>
+  Aspiring Data Scientist with a Master's from IIT Mandi, passionate about leveraging AI to solve real-world challenges. Experienced in Machine Learning, Deep Learning, and NLP, I'm on a mission to transform data into actionable insights.
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachin27b&theme=radical&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch">
+  <img src="https://img.shields.io/badge/LangChain-FCD34D?style=for-the-badge&logo=langchain">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/Large_Language_Models-FFFFFF?style=for-the-badge&logo=openai">
+  <img src="https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge&logo=R">
+  <img src="https://img.shields.io/badge/Machine_Learning-5C2D91?style=for-the-badge&logo=scikit-learn">
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow">
+  <img src="https://img.shields.io/badge/Data_Science-2C9CDB?style=for-the-badge&logo=databricks">
+  <img src="https://img.shields.io/badge/NLP-3E5C76?style=for-the-badge&logo=nlp">
+  <img src="https://img.shields.io/badge/Time_Series_Forecasting-FFCC00?style=for-the-badge&logo=timeseries">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/Git/GitHub-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Problem_Solving-4A90E2?style=for-the-badge&logo=problemsolving">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex">
 </p>
 
 <h2 align="center">
@@ -115,9 +94,7 @@
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sachin27b.sachin27b" alt="visitors" style="margin-right: 20px;">
-  <a href="https://www.buymeacoffee.com/sachinbahuleyan" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
-  </a>
+  
 </div>
 
 <div align="center" style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px; margin: 20px 0;">
