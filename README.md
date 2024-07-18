@@ -1,129 +1,95 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sachin27b/sachin27b/main/assets/header.svg" alt="Header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=300&section=header&text=Sachin%20Bahuleyan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20ML%20Engineer&descAlignY=51&descAlign=62" width="100%">
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Sachin+Bahuleyan;Data+Scientist+%7C+ML+Engineer;AI+Innovator+%7C+Problem+Solver" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <a href="https://linkedin.com/in/sachin-bahuleyan/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&color=black&labelColor=0077B5"/>
-  </a>
   <a href="https://github.com/sachin27b">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&color=black&labelColor=181717"/>
-  </a>
-  <a href="mailto:sachin270895@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white&color=black&labelColor=D14836"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=535&lines=Turning+Data+into+Actionable+Insights;Architecting+Intelligent+Systems;Pushing+the+Boundaries+of+AI;Solving+Complex+Problems+with+ML" alt="Typing SVG" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/sachin-bahuleyan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&style=flat-square"/></a>
+  <a href="https://github.com/sachin27b"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&style=flat-square"/></a>
+  <a href="mailto:sachin270895@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white&style=flat-square"/></a>
+</p>
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+  Tech Arsenal
+</h2>
+
+<p align="center">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Skills & Tools </b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-00FFFF?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-4EAA25?style=for-the-badge&logo=natural-language-processing&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  GitHub Analytics
+</h2>
+
+<p align="center">
+  <a href="https://github.com/sachin27b">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sachin27b&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sachin27b&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sachin27b&theme=radical&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  Featured Projects
+</h2>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sachin27b/sachin27b/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 [RAG Chatbot](https://github.com/yourusername/project1) | End-to-end chatbot using advanced NLP techniques | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=chainlink)&nbsp;![FAISS](https://img.shields.io/badge/-FAISS-05122A?style=flat&logo=facebook) |
+| 📚 [Student Performance Predictor](https://github.com/yourusername/project2) | ML pipeline with exceptional accuracy | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn)&nbsp;![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) |
+| 🏠 [Airbnb Booking Predictor](https://github.com/yourusername/project3) | Kaggle competition with high public score | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;![XGBoost](https://img.shields.io/badge/-XGBoost-05122A?style=flat&logo=xgboost)&nbsp;![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas) |
+
 </div>
 
-<details open>
-  <summary><h2>🧠 About Me</h2></summary>
-  <br>
-  <p align="center">
-    Visionary Data Scientist and ML Engineer with a passion for pushing the boundaries of AI. Armed with a Master's from IIT Mandi, I transform complex data into actionable insights and build intelligent systems that solve real-world challenges.
-  </p>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sachin27b&style=for-the-badge&color=blueviolet" alt="Profile Views">
-  </p>
-</details>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  Latest Blog Post
+</h2>
 
-<details>
-  <summary><h2>🛠️ Tech Arsenal</h2></summary>
-  <br>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js,pytorch,tensorflow,flask,linux,git,docker,kubernetes,aws,gcp,mongodb,mysql" />
-  </p>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin27b&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </p>
-</details>
-
-<details>
-  <summary><h2>📊 GitHub Analytics</h2></summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin27b&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </p>
-  <br>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=sachin27b&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  </p>
-</details>
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">RAG Chatbot</h3>
-        <div align="center">  
-          <a href="https://github.com/sachin27b/project1" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin27b&repo=project1&theme=radical&hide_border=true&bg_color=0D1117" alt="Project 1" />
-          </a>
-          <br><br>
-          <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=0D1117"/>
-          <img src="https://img.shields.io/badge/-LangChain-00FFFF?style=for-the-badge&logo=chainlink&logoColor=white&color=0D1117"/>
-          <img src="https://img.shields.io/badge/-FAISS-3776AB?style=for-the-badge&logo=facebook&logoColor=white&color=0D1117"/>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Student Performance Predictor</h3>
-        <div align="center">
-          <a href="https://github.com/sachin27b/project2" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin27b&repo=project2&theme=radical&hide_border=true&bg_color=0D1117" alt="Project 2" />
-          </a>
-          <br><br>
-          <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=0D1117"/>
-          <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&color=0D1117"/>
-          <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=0D1117"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2 align="center">📝 Latest Blog Post</h2>
-
-<div align="center">
-  <a href="https://medium.com/@sachin270895/customer-support-chatbot-by-fine-tuning-flan-t5-using-lora-937bb3fae01e" target="_blank">
+<p align="center">
+  <a href="https://medium.com/@sachin270895/customer-support-chatbot-by-fine-tuning-flan-t5-using-lora-937bb3fae01e">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachin270895/0" alt="Recent Article on Medium" width="100%">
   </a>
-</div>
+</p>
 
 <br>
-
-<h2 align="center">🎵 Now Vibing To</h2>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/yourusername">
-    <img src="https://novatorem-sachin27b.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
-  </a>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
 
 <br>
 
-<h2 align="center">📫 Let's Connect</h2>
-
 <p align="center">
-  <a href="https://github.com/sachin27b" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=0D1117" alt="github" />
-  </a>
-  <a href="https://linkedin.com/in/sachin-bahuleyan" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117" alt="linkedin" />
-  </a>
-  <a href="https://medium.com/@sachin270895" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white&color=0D1117" alt="medium" />
-  </a>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sachin27b/sachin27b/main/assets/footer.svg" alt="Footer" width="100%">
+
+### Let's innovate and push the boundaries of AI together! 🚀✨
+
 </div>
