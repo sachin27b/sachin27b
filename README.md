@@ -100,7 +100,7 @@
 
 <div align="center" style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 20px; margin: 20px 0;">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be glad to talk to you!</b> 😊</em>
 </div>
 
 <div align="center" style="margin-top: 50px;">
