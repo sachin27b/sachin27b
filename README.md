@@ -28,6 +28,7 @@
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachin270895/0" alt="Recent Article on Medium" width="100%">
   </a>
 </div>
+
 ### 🛠️ Technologies & Tools
 
 <p align="left">
@@ -58,7 +59,7 @@
 <div style="display: flex; justify-content: space-around; margin: 20px 0;">
   <div style="width: 30%; background: rgba(65,88,208,0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <h3 style="color: #4158D0;">🤖 RAG Chatbot</h3>
-    <p>End-to-end chatbot using advanced NLP techniques</p>
+    <p>Developed a Retrieval-Augmented Generation (RAG) based chatbot using Langchain framework. Leveraged miniLM v6 from HuggingFace for sentence embedding and Facebook AI Similarity Search (FAISS) for efficient vector database retrieval. Utilized Large Language Model Llama 2 7b quantized version for large language model capabilities. Built a web application for the project using Flask.</p>
     <img src="media/rag.png" alt="RAG Chatbot" style="width: 100%; border-radius: 5px;">
     <p>
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
