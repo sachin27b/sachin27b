@@ -1,13 +1,13 @@
 ![Header](https://user-images.githubusercontent.com/your-image-path/header.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=25&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Sachin+Bahuleyan+👋;Data+Scientist+%7C+Machine+Learning+Enthusiast;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&width=435&lines=Hi+there!+I'm+Sachin+Bahuleyan+👋;Data+Scientist+%7C+ML+Enthusiast;I+Love+Innovative+Projects!">
 </p>
 
 <p align="center">
-  <a href="https://sachin27b.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/sachinbahuleyan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/sachin27b"><img src="https://img.shields.io/github/followers/sachin27b?label=Follow&style=social"></a>
+  <a href="https://sachin27b.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Website-Portfolio-0e76a8?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/sachinbahuleyan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/sachin27b"><img src="https://img.shields.io/github/followers/sachin27b?label=Follow&style=for-the-badge&logo=github"></a>
 </p>
 
 ---
@@ -21,14 +21,14 @@ I'm a data scientist and machine learning enthusiast passionate about leveraging
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow">
-  <img src="https://img.shields.io/badge/Keras-2.x-red?style=for-the-badge&logo=keras">
-  <img src="https://img.shields.io/badge/Pandas-1.x-green?style=for-the-badge&logo=pandas">
-  <img src="https://img.shields.io/badge/FAISS-1.7.0-blue?style=for-the-badge&logo=faiss">
-  <img src="https://img.shields.io/badge/LangChain-1.0.0-yellow?style=for-the-badge&logo=langchain">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow">
+  <img src="https://img.shields.io/badge/Keras-2.x-D00000?style=for-the-badge&logo=keras">
+  <img src="https://img.shields.io/badge/Pandas-1.x-150458?style=for-the-badge&logo=pandas">
+  <img src="https://img.shields.io/badge/FAISS-1.7.0-00A6D6?style=for-the-badge&logo=faiss">
+  <img src="https://img.shields.io/badge/LangChain-1.0.0-FCD34D?style=for-the-badge&logo=langchain">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </p>
 
 ### 🏆 Projects
@@ -36,7 +36,7 @@ I'm a data scientist and machine learning enthusiast passionate about leveraging
 <p align="left">
   <a href="https://github.com/sachin27b/RAG-based-chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin27b&repo=RAG-based-chatbot&theme=radical"></a>
   <a href="https://github.com/sachin27b/student-performance-predictor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin27b&repo=student-performance-predictor&theme=radical"></a>
-  <a href="https://sachin27b.github.io/Portfolio-Website/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin27b&repo=Portfolio-Website&theme=radical"></a>
+  <a href="https://github.com/sachin27b/Portfolio-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin27b&repo=Portfolio-Website&theme=radical"></a>
 </p>
 
 ### 📈 GitHub Stats
