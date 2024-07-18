@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/your-image-path/coding.svg" width="400"/>
+<img align="right" src="https://user-images.githubusercontent.com/your-image-path/coding.svg" width="350"/>
 
 ### 👨‍💻 About Me
 
@@ -33,17 +33,17 @@ I'm a data scientist and machine learning enthusiast passionate about leveraging
 
 ### 🏆 Projects
 
-- **[RAG-based Chatbot](https://github.com/sachin27b/RAG-based-chatbot)**: A Retrieval-Augmented Generation chatbot using FAISS and Langchain.
-- **[Student Performance Predictor](https://github.com/sachin27b/student-performance-predictor)**: A model to predict student performance using various ML techniques.
-- **[Personal Portfolio Website](https://sachin27b.github.io/Portfolio-Website/)**: My personal portfolio showcasing my projects and skills.
+<p align="left">
+  <a href="https://github.com/sachin27b/RAG-based-chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin27b&repo=RAG-based-chatbot&theme=radical"></a>
+  <a href="https://github.com/sachin27b/student-performance-predictor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin27b&repo=student-performance-predictor&theme=radical"></a>
+  <a href="https://sachin27b.github.io/Portfolio-Website/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin27b&repo=Portfolio-Website&theme=radical"></a>
+</p>
 
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sachin27b&show_icons=true&theme=radical" alt="Sachin's GitHub stats" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin27b&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin27b&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
