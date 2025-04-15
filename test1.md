@@ -48,9 +48,21 @@
 
 <div style="display: flex; justify-content: space-around; margin: 20px 0;">
   <div style="width: 30%; background: rgba(65,88,208,0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="color: #4158D0;">🤖 Two-Tower RecSys</h3>
+    <p>End-to-end Recommendation System</p>
+    <img src="media/product-recommendation-workflow-fixed.svg" alt="RAG Chatbot" style="width: 100%; border-radius: 5px;">
+    <p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff"/>
+      <img src="https://img.shields.io/badge/-FAISS-05122A?style=flat&logo=facebook"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+    </p>
+  </div>
+
+  <div style="width: 30%; background: rgba(65,88,208,0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <h3 style="color: #4158D0;">🤖 RAG Chatbot</h3>
     <p>End-to-end chatbot using advanced NLP techniques</p>
-    <img src="https://via.placeholder.com/300x150.png?text=RAG+Chatbot" alt="RAG Chatbot" style="width: 100%; border-radius: 5px;">
+    <img src="media/rag.png" alt="RAG Chatbot" style="width: 100%; border-radius: 5px;">
     <p>
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
       <img src="https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=chainlink"/>
@@ -58,21 +70,10 @@
     </p>
   </div>
   
-  <div style="width: 30%; background: rgba(200,80,192,0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="color: #C850C0;">📚 Student Performance Predictor</h3>
-    <p>ML pipeline with exceptional accuracy</p>
-    <img src="https://via.placeholder.com/300x150.png?text=Student+Performance" alt="Student Performance Predictor" style="width: 100%; border-radius: 5px;">
-    <p>
-      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-      <img src="https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn"/>
-      <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
-    </p>
-  </div>
-  
   <div style="width: 30%; background: rgba(255,204,112,0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <h3 style="color: #FFCC70;">🏠 Airbnb Booking Predictor</h3>
     <p>Kaggle competition with high public score</p>
-    <img src="https://via.placeholder.com/300x150.png?text=Airbnb+Predictor" alt="Airbnb Booking Predictor" style="width: 100%; border-radius: 5px;">
+    <img src="media/airbnb.png" alt="Airbnb Booking Predictor" style="width: 100%; border-radius: 5px;">
     <p>
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
       <img src="https://img.shields.io/badge/-XGBoost-05122A?style=flat&logo=xgboost"/>
