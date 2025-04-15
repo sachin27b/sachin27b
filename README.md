@@ -54,6 +54,17 @@
 </h2>
 
 <div style="display: flex; justify-content: space-around; margin: 20px 0;">
+  <div style="width: 30%; background: rgba(117, 199, 110, 0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="color: #4158D0;">🤖 Two-Tower RecSys</h3>
+    <p>This project implements a two-tower model for product search using contrastive loss, with query and product towers generating embeddings via Alibaba-NLP/gte-multilingual-base. Queries are embedded, processed, and searched using FAISS. Models are trained on Amazon ESCI data, logged with MLflow, and served through MLflow endpoints.</p>
+    <img src="media/product-recommendation-workflow-fixed.svg" alt="RAG Chatbot" style="width: 100%; border-radius: 5px;">
+    <p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff"/>
+      <img src="https://img.shields.io/badge/-FAISS-05122A?style=flat&logo=facebook"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+    </p>
+  </div>
   <div style="width: 30%; background: rgba(65,88,208,0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <h3 style="color: #4158D0;">🤖 RAG Chatbot</h3>
     <p>Developed a Retrieval-Augmented Generation (RAG) based chatbot using Langchain framework. Leveraged miniLM v6 from HuggingFace for sentence embedding and Facebook AI Similarity Search (FAISS) for efficient vector database retrieval. Utilized Large Language Model Llama 2 7b quantized version for large language model capabilities. Built a web application for the project using Flask.</p>
@@ -62,17 +73,6 @@
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
       <img src="https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=chainlink"/>
       <img src="https://img.shields.io/badge/-FAISS-05122A?style=flat&logo=facebook"/>
-    </p>
-  </div>
-  
-  <div style="width: 30%; background: rgba(200,80,192,0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="color: #C850C0;">📚 Student Performance Predictor</h3>
-    <p>Conducted comprehensive Exploratory Data Analysis (EDA) to understand data distribution, identify outliers, and studied relationships between features. Developed an end-to-end machine learning project for predicting student performance with data pipeline, exception handling and logging. Trained multiple models including linear regression, random forest, Decision Trees and XGBoost. Achieved an R-squared score of 87% on the held-out testing set. Built a web application for the project using Flask.</p>
-    <img src="media/student-performance.jpg" alt="Student Performance Predictor" style="width: 100%; border-radius: 5px;">
-    <p>
-      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-      <img src="https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn"/>
-      <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
     </p>
   </div>
   
