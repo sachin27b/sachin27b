@@ -76,7 +76,7 @@
       🤖 <a href="https://github.com/sachin27b/RAG-aws" target="_blank" style="text-decoration:none; color:inherit;">Document RAG</a>
     </h3>
     <p>A production-ready Flask application for PDF document processing with AWS Bedrock Knowledge Base integration and Groq LLM-powered question answering.</p>
-    <img src="media/rag.png" alt="RAG Chatbot" style="width: 100%; border-radius: 5px;">
+    <img src="media/rag1.png" alt="RAG Chatbot" style="width: 100%; border-radius: 5px;">
     <p>
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
       <img src="https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=chainlink"/>
