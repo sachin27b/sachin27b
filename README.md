@@ -12,7 +12,7 @@
 <h2 align="center">🧠 About Me</h2>
 
 <p align="center">
-  Aspiring Data Scientist with a Master's from IIT Mandi in Computer Science, passionate about leveraging AI to solve real-world challenges. Experienced in Machine Learning, Deep Learning, and NLP, I'm on a mission to transform data into actionable insights.
+  I'm a Data Scientist with an M.Tech in Computer Science from IIT Mandi, passionate about building intelligent systems that combine machine learning, deep learning, NLP, and LLMs to solve real-world problems.
 </p>
 
 <h2 align="center">
@@ -54,10 +54,14 @@
 </h2>
 
 <div style="display: flex; justify-content: space-around; margin: 20px 0;">
+  
+  <!-- Two-Tower RecSys -->
   <div style="width: 30%; background: rgba(117, 199, 110, 0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="color: #4158D0;">🤖 Two-Tower RecSys</h3>
+    <h3 style="color: #4158D0;">
+      🤖 <a href="https://github.com/sachin27b/Two-Tower-Recommendation" target="_blank" style="text-decoration:none; color:inherit;">Two-Tower RecSys</a>
+    </h3>
     <p>This project implements a two-tower model for product search using contrastive loss, with query and product towers generating embeddings via Alibaba-NLP/gte-multilingual-base. Queries are embedded, processed, and searched using FAISS. Models are trained on Amazon ESCI data, logged with MLflow, and served through MLflow endpoints.</p>
-    <img src="media/product-recommendation-workflow-fixed.svg" alt="RAG Chatbot" style="width: 100%; border-radius: 5px;">
+    <img src="media/two-tower.png" alt="Two Tower RecSys" style="width: 100%; border-radius: 5px;">
     <p>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff"/>
@@ -65,9 +69,13 @@
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
     </p>
   </div>
+
+  <!-- RAG -->
   <div style="width: 30%; background: rgba(65,88,208,0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="color: #4158D0;">🤖 RAG Chatbot</h3>
-    <p>Developed a Retrieval-Augmented Generation (RAG) based chatbot using Langchain framework. Leveraged miniLM v6 from HuggingFace for sentence embedding and Facebook AI Similarity Search (FAISS) for efficient vector database retrieval. Utilized Large Language Model Llama 2 7b quantized version for large language model capabilities. Built a web application for the project using Flask.</p>
+    <h3 style="color: #4158D0;">
+      🤖 <a href="https://github.com/sachin27b/RAG-aws" target="_blank" style="text-decoration:none; color:inherit;">Document RAG</a>
+    </h3>
+    <p>A production-ready Flask application for PDF document processing with AWS Bedrock Knowledge Base integration and Groq LLM-powered question answering.</p>
     <img src="media/rag.png" alt="RAG Chatbot" style="width: 100%; border-radius: 5px;">
     <p>
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
@@ -75,10 +83,13 @@
       <img src="https://img.shields.io/badge/-FAISS-05122A?style=flat&logo=facebook"/>
     </p>
   </div>
-  
+
+  <!-- Airbnb Booking Predictor -->
   <div style="width: 30%; background: rgba(255,204,112,0.1); border-radius: 10px; padding: 20px; transition: all 0.3s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="color: #FFCC70;">🏠 Airbnb Booking Predictor</h3>
-    <p>Predicting where a new user will book their first travel experience. Using this, Airbnb can share more personalized content with their community, decrease the average time to first booking, and better forecast demand. Conducted comprehensive Exploratory Data Analysis (EDA) to understand data distribution, identify outliers, and studied relationships between features. Trained multiple models including random forest, Decision Trees and XGBoost. Achieved a public score of 0.86 on KAGGLE.</p>
+    <h3 style="color: #FFCC70;">
+      🏠 <a href="https://github.com/sachin27b/Airbnb-New-User-Booking" target="_blank" style="text-decoration:none; color:inherit;">Airbnb Booking Predictor</a>
+    </h3>
+    <p>Predicting where a new user will book their first travel experience. Using this, Airbnb can share more personalized content with their community, decrease the average time to first booking, and better forecast demand. Conducted comprehensive EDA, trained multiple models (RF, DT, XGBoost), and achieved a 0.86 public score on Kaggle.</p>
     <img src="media/airbnb.png" alt="Airbnb Booking Predictor" style="width: 100%; border-radius: 5px;">
     <p>
       <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
@@ -86,6 +97,7 @@
       <img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas"/>
     </p>
   </div>
+
 </div>
 
 
